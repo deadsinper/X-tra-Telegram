@@ -36,4 +36,4 @@ async def leave(e):
 
         else:
 
-            await e.edit('`Sir bye👋👋👋 /n See you later `')
+            await e.edit('`Sir bye👋👋👋/nSee you later `')
