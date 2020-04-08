@@ -15,7 +15,7 @@ USER_BOT_WARN_ZERO = "`You were spamming my peru master's inbox, henceforth your
 USER_BOT_NO_WARN = ("[──▄█▀█▄─────────██ \n▄████████▄───▄▀█▄▄▄▄ \n██▀▼▼▼▼▼─▄▀──█▄▄ \n█████▄▲▲▲─▄▄▄▀───▀▄ \n██████▀▀▀▀─▀────────▀▀](tg://user?id=742506768)\n\n"
                     "`ᎻᎬᏞᏞϴ \nϴΝᏞᎽ ᎬΝᏀᏞᏆՏᎻ is ᎪᏞᏞϴᏔᎬᎠ ꀤꈤ ꓄ꃅꀤꌗ ꉓꃅꍏ꓄ \nᏆҒ ᎽϴႮ ႮՏe ᎪΝᎽ ϴͲᎻᎬᎡ ᏞᎪΝᏀႮᎪᏀᎬ ᎠᏆᎡᎬᏟͲ ᏴᏞϴᏟᏦ`\n"
                     f"{DEFAULTUSER}'s` HERE.\n\n"
-                    "ᎠϴΝͲ ՏᏢᎪᎷ ᎷᎽ ᏆΝᏴϴХ \nͲᎻᏆՏ ҒᎡᎬᎪᏦᏆΝ ᏴϴͲ ᏔᏆᏞᏞ ᏴᏞϴᏟᏦ ᎽϴႮ \nWAIT FOR MY RESPONSE`\n"
+                    "ᎠϴΝͲ ՏᏢᎪᎷ ᎷᎽ ᏆΝᏴϴХ \nͲᎻᏆՏ ҒᎡᎬᎪᏦᏆΝ ᏴϴͲ ᏔᏆᏞᏞ ᏴᏞϴᏟᏦ ᎽϴႮ \n\nWAIT FOR MY RESPONSE😜😜`\n\n"
                     "** Send** `/start` ** so that we can decide why you're here.**")
 
 
