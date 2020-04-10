@@ -12,7 +12,7 @@ PREV_REPLY_MESSAGE = {}
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "**No name set yet nibba, check pinned message in** @XtraTgBot"
 USER_BOT_WARN_ZERO = "`You were spamming my peru master's inbox, henceforth your retarded lame ass has been blocked by my master's userbot.` **Now GTFO, i'm playing minecraft** "
-USER_BOT_NO_WARN = ("[█████████ \n█▄█████▄█ \n█▼▼▼▼▼ \n█ ᗯᕼᝪ ƬϦ៩ ҒႮᏦ R͓̽ U͓̽ \n█▲▲▲▲▲ \n█████████ \n ██           ██](tg://user?id=742506768)\n\n"
+USER_BOT_NO_WARN = ("[█████████ \n█▄█████▄█ \n█▼▼▼▼▼ \n█ ᗯᕼᝪ ƬϦ៩ ҒႮᏦ R͓̽ U͓̽ \n█▲▲▲▲▲ \n█████████ \n ██           ██](tg://user?id=902373541)\n\n"
                     "`ᎻᎬᏞᏞϴ \nϴΝᏞᎽ ᎬΝᏀᏞᏆՏᎻ is ᎪᏞᏞϴᏔᎬᎠ ꀤꈤ ꓄ꃅꀤꌗ ꉓꃅꍏ꓄ \nᏆҒ ᎽϴႮ ႮՏe ᎪΝᎽ ϴͲᎻᎬᎡ ᏞᎪΝᏀႮᎪᏀᎬ ᎠᏆᎡᎬᏟͲ ᏴᏞϴᏟᏦ`\n"
                     f"{DEFAULTUSER}'s` HERE.\n\n"
                     "ᎠϴΝͲ ՏᏢᎪᎷ ᎷᎽ ᏆΝᏴϴХ \nͲᎻᏆՏ ҒᎡᎬᎪᏦᏆΝ ᏴϴͲ ᏔᏆᏞᏞ ᏴᏞϴᏟᏦ ᎽϴႮ \n\nWAIT FOR MY RESPONSE😜😜`\n\n"
